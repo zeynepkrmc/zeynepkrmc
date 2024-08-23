@@ -1,4 +1,3 @@
-[! [MasterHead] https://tenor.com/tr/view/work-internet-computer-working-penguin-gif-6505495604908631093
 <h1 align="center">Hi 👋, I'm Zeynep</h1>
 <h3 align="center">A passionate backend and AI developer.</h3>
 
