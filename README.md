@@ -1,4 +1,4 @@
-[! [MasterHead]https://tenor.com/tr/view/new-game-ahagon-umiko-programming-work-working-at-work-gif-13247664
+![MasterHead(https://tenor.com/tr/view/new-game-ahagon-umiko-programming-work-working-at-work-gif-13247664)
 <h1 align="center">Hi 👋, I'm Zeynep</h1>
 <h3 align="center">A passionate backend and AI developer.</h3>
 
