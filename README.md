@@ -9,7 +9,6 @@
   
 ![New Game Ahagon Umiko GIF](https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif)
 ![Code GIF](https://media.tenor.com/nzp0A2Catl0AAAAi/atack3000-atack.gif)
-![Walking Code](https://media1.tenor.com/m/Z_Ah8rkdZ4YAAAAC/walking-code.gif)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/zeynep-sude-kirmaci/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zeynep-sude-kirmaci/" height="30" width="40" /></a>
