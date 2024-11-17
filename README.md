@@ -11,9 +11,7 @@
 
 - 💬 Ask me about **nodejs**
 - 
-![MasterHead](https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif)
-
-![MasterHead](https://media.tenor.com/nzp0A2Catl0AAAAi/atack3000-atack.gif)
+![MasterHead](https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif)              ![MasterHead](https://media.tenor.com/nzp0A2Catl0AAAAi/atack3000-atack.gif)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
