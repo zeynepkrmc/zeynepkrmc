@@ -11,7 +11,9 @@
 
 - 💬 Ask me about **nodejs**
 - 
-[![MasterHead](https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif)
+![MasterHead](https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif)
+
+![MasterHead](https://media.tenor.com/nzp0A2Catl0AAAAi/atack3000-atack.gif)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -32,4 +34,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeynepkrmc&" alt="zeynepkrmc" /></p>
 
-[![MasterHead](https://media.tenor.com/nzp0A2Catl0AAAAi/atack3000-atack.gif)
+
