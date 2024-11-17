@@ -13,10 +13,6 @@
 
 ![MasterHead](https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif)                                   ![MasterHead](https://media.tenor.com/nzp0A2Catl0AAAAi/atack3000-atack.gif)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/user26344513" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user26344513" height="30" width="40" /></a>
