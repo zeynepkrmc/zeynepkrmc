@@ -10,8 +10,11 @@
 - 🌱 I’m currently learning **AI**
 
 - 💬 Ask me about **nodejs**
+- 
 !https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif
+
 !https://media.tenor.com/nzp0A2Catl0AAAAi/atack3000-atack.gif
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
