@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **nodejs**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zeynepkrmc&label=Profile views&color=0e75b6&style=flat" alt="zeynepkrmc" /> </p>
-
 ![MasterHead](https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif)                                   ![MasterHead](https://media.tenor.com/nzp0A2Catl0AAAAi/atack3000-atack.gif)
 
 <h3 align="left">Connect with me:</h3>
