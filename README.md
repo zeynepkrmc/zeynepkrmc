@@ -1,19 +1,13 @@
 <h1 align="center">Hi 👋, I'm Zeynep</h1>
 <h3 align="center">A passionate backend and AI developer.</h3>
-<table>
-  <tr>
-    <td>
-      <h3> 🔭 I’m currently working on <strong>restaurant delivery backend project</strong></h3>
-      <h3>🌱 I’m currently learning <strong>AI</strong></h3>
-      <h3> 💬 Ask me about <strong>nodejs</strong></h3>
-    </td>
-    <td align="right">
-      <img src="https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif" width="400" alt="Programming GIF">
-    </td>
-  </tr>
-</table>
 
-                                
+- 🔭 I’m currently working on **restaurant delivery backend project**
+
+- 🌱 I’m currently learning **AI**
+
+- 💬 Ask me about **nodejs**
+
+![MasterHead](https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif)                                 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/zeynep-sude-kirmaci/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zeynep-sude-kirmaci/" height="30" width="40" /></a>
@@ -24,5 +18,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeynepkrmc&show_icons=true&locale=en&layout=compact" alt="zeynepkrmc" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zeynepkrmc&show_icons=true&locale=en" alt="zeynepkrmc" /></p>
-
 
