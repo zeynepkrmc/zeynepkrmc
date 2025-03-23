@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **restaurant delivery backend project**
 
-- 🌱 I’m currently learning **AI**
+- 🌱 I’m currently making projects with **ML** 
 
 - 💬 Ask me about **nodejs**
 
