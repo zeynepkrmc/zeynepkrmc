@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **restaurant delivery backend project**
 
-- 🌱 I’m currently making projects with **ML** 
+- 🌱 I’m currently making projects with **Machine Learning** 
 
-- 💬 Ask me about **nodejs**
+- 💬 Ask me about **Data engineering and nodejs**
 
 ![MasterHead](https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif)          
 <h3 align="left">Connect with me:</h3>
