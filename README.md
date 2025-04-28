@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zeynep</h1>
-<h3 align="center">A passionate backend and AI developer.</h3>
+<h3 align="center">A passionate AI and ML developer.</h3>
 
 - 🔭 I’m currently working on **restaurant delivery backend project**
 
