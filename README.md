@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Zeynep</h1>
 <h3 align="center">A passionate AI and ML developer.</h3>
 
-- 🔭 I’m currently working on **restaurant delivery backend project**
+- 🔭 I’m currently working on **restaurant delivery backend project with nodejs**
 
-- 🌱 I’m currently making projects with **Machine Learning** 
+- 🌱 I’m currently making projects with **Artificial Intelligence** 
 
-- 💬 Ask me about **Data engineering and nodejs**
+- 💬 Ask me about **Data engineering**
 
 ![MasterHead](https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif)          
 <h3 align="left">Connect with me:</h3>
