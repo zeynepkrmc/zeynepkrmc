@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zeynep</h1>
 <h3 align="center">A passionate AI and ML developer.</h3>
 
-- 🔭 I’m currently making projects with **Artificial Intelligence** 
+- 🔭 I’m currently making projects with **RAG and Artificial Intelligence** 
 
 - 🌱 I’m currently working on **restaurant delivery backend project with nodejs**
 
