@@ -9,7 +9,7 @@ A passionate Computer Engineer focused on bridging the gap between robust Backen
 - 🏛️ **Creative Projects:** Recreating an ancient atmosphere in **Unreal Engine** for the "Ephesus" project.
 - 🤖 **AI & LLM:** Specialized in **RAG (Retrieval-Augmented Generation)** and multi-agent systems (check out my **ShopHelper** project!).
 - 🌱 **Learning:** Deepening my knowledge in **Deep Learning** and advanced **Data Structures**.
-- 🎯 **Goal:** Aspiring **Research Assistant** with a focus on AI integration.
+- 🎯 **Goal:** Aspiring engineering opportunities with a focus on AI integration.
 - 💬 **Ask me about:** Python, Node.js, Machine Learning, and Backend Architecture.
 
 <h3 align="left">Connect with me:</h3>
