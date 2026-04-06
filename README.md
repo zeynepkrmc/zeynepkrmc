@@ -5,7 +5,7 @@
 A passionate Computer Engineer focused on bridging the gap between robust Backend systems and cutting-edge Artificial Intelligence. Currently pursuing my Master's degree and working on innovative projects ranging from energy forecasting to immersive game environments.
 </p>
 
-- 🔭 **Current Focus:** Developing a time-series forecasting **LSTM model** for the energy sector and working within the **TÜBİTAK BİGG** program.
+- 🔭 **Current Focus:** Developing a time-series forecasting **LSTM model** for the energy sector.
 - 🏛️ **Creative Projects:** Recreating an ancient atmosphere in **Unreal Engine** for the "Ephesus" project.
 - 🤖 **AI & LLM:** Specialized in **RAG (Retrieval-Augmented Generation)** and multi-agent systems (check out my **ShopHelper** project!).
 - 🌱 **Learning:** Deepening my knowledge in **Deep Learning** and advanced **Data Structures**.
