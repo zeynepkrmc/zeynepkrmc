@@ -33,9 +33,5 @@ A passionate Computer Engineer focused on bridging the gap between robust Backen
 ---
 
 <p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs?username=zeynepkrmc&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark](https://www.linkedin.com/in/zeynep-sude-kirmaci/)" alt="zeynepkrmc" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zeynepkrmc&show_icons=true&locale=en&theme=vision-friendly-dark" alt="zeynepkrmc" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zeynepkrmc&show_icons=true&locale=en" alt="zeynepkrmc" /></p>
 </p>
