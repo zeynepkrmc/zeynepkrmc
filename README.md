@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zeynep Sude Kırmacı</h1>
+<h1 align="center">Hi 👋, I'm Zeynep </h1>
 <h3 align="center">AI Researcher & Backend Developer | Computer Engineering MSc Student</h3>
 
 <p align="left"> 
